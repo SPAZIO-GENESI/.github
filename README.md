@@ -1,2 +1,2 @@
 # .github
-Spazio Genesi reèp
+Spazio Genesi repos
