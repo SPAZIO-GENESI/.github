@@ -6,7 +6,7 @@
 
 👩‍💻 qui verranno pubblicati gli eventi, i verbali di assemblea, la documentazione operativa pubblica
 
-🍿 per partecipare alle assemblee è sufficiente essere tesserati in validità!
+🍿 la partecipazione alle assemblee è libera ma per il diritto di voto è necessario essere tesserati in validità
 
 <!--
 altro
